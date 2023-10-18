@@ -1,0 +1,52 @@
+{
+    "html": {
+      "lesson": ["https://www.tutorialspoint.com/html/html_tutorial.pdfL"],
+      "cours": ["https://www.youtube.com/watch?v=qsbkZ7gIKnc"]
+    },
+    "python": {
+      "lesson": ["https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjPppOvnI74AhUYiNUKHQ4lCiYYABACGgJ3cw&ohost=www.google.com&cid=CAESauD25oa7Q4NTeiG5T0d9XMWi6xD2ILQO1r6z3H3NziT2ukkkvJDqfdPv9tDrOHsDI_eeY5Mmi1jw_0ohfE4TS9jbAqgHIVxh0fGtFSHrPTasaLqhRwUfwxcvSYqEYPQJ47_pNJ5jg5noFpc&sig=AOD64_2mM7BwwaHSOZ6nVr7FJzO193XQag&q&adurl&ved=2ahUKEwiO8IuvnI74AhVIgM4BHbazC84Q0Qx6BAgEEAE"],
+      "cours": ["https://youtu.be/rfscVS0vtbw"]
+    },
+    "css": {
+      "lesson": ["https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3"],
+      "cours": ["https://youtu.be/gXLjWRteuWI"]
+    },
+    "javascript": {
+      "lesson": ["https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript"],
+      "cours": ["https://youtu.be/PkZNo7MFNFg"]
+    },
+    "react": {
+      "lesson": ["https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"],
+      "cours": ["https://youtu.be/bMknfKXIFA8"]
+    },
+  
+    "php": {
+      "lesson": ["https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql"],
+      "cours": ["https://youtu.be/2eebptXfEvw"]
+    },
+    "sql": {
+      "lesson":["https://openclassrooms.com/fr/courses/6971126-implementez-vos-bases-de-donnees-relationnelles-avec-sql"],
+      "cours": ["https://youtu.be/Cz3WcZLRaWc"]
+    },
+    "c": {
+      "lesson": ["https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c"],
+      "cours": ["https://youtu.be/KJgsSFOSQv0"]
+    },
+    "c++": {
+      "lesson": ["https://openclassrooms.com/fr/courses/1894236-apprenez-a-programmer-en-c"],
+      "cours": ["https://youtu.be/vLnPwxZdW4Y"]
+    },
+    "c#": {
+      "lesson": ["https://openclassrooms.com/fr/courses/5641591-testez-votre-application-c"],
+      "cours": ["https://youtu.be/GhQdlIFylQ8"]
+    },
+ 
+    "git": {
+      "lesson": ["https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github"],
+      "cours": ["https://youtu.be/RGOj5yH7evk"]
+    },
+    "java": {
+      "lesson": ["https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript"],
+      "cours": ["https://youtu.be/grEKMHGYyns"]
+    }
+  }
